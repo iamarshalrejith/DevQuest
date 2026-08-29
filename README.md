@@ -108,4 +108,4 @@ Deploy easily on [Vercel](https://vercel.com/new), the platform from the creator
 
 ## License
 
-Not specified.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
